@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MOBOLD';
+    src: url(./font/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'MOREGULAR';
+    src: url(./font/Montserrat-Regular.ttf);
+}
